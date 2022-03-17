@@ -1,0 +1,13 @@
+{
+  "name": "robo-markets",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}

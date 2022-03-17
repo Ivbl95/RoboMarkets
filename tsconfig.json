@@ -1,0 +1,9 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "outDir": "js",
+    "sourceMap": true,
+    "outFile": "app.js"
+  }
+}
